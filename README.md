@@ -29,17 +29,13 @@ API simple construida con Flask y Neo4j para gestionar personas en una base de d
 
 ## Imágenes
 
-1. Vista de la API funcionando:
-   ![API en funcionamiento](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/1.png)
+![1](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/1.png)
 
-2. Creando una nueva persona:
-   ![Creando persona](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/2.png)
+![2](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/2.png)
 
-3. Listando todas las personas:
-   ![Lista de personas](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/3.png)
+![3](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/3.png)
 
-4. Verificando salud de la API:
-   ![Health check](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/4.png)
+![4](https://raw.githubusercontent.com/sebas1541/taller-15-setp-dist/main/images/4.png)
 
 ## Estructura del Proyecto
 
